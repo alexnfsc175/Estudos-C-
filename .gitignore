@@ -2,4 +2,4 @@
 # http://git-scm.com/docs/gitignore
 
 /cmake-build-debug/
-/.idea/commits
+/.idea/
